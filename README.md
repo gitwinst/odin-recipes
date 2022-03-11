@@ -10,4 +10,10 @@ Doing so will demonstrate a rudimentary understanding of HTML and the basics of 
  - the file structure of a simple website;
  - how to use simple html elements such as p, a, and img tags, among others;
  - git and its core functionality;
- - github
+ - githubhtml
+
+ Reflection:
+  - You forgot and remembered the charset attr on the meta tag :)
+  - You used width on the image tag. I remember that attr from long, long ago. I assume using it is basically an html5 cardinal sin :P
+  - HTML is fun! Why does CSS have to be so dreadful? :(
+  - You learned some new recipes :D
